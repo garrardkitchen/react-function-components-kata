@@ -1,3 +1,9 @@
+**Kata**
+
+I have completed the kata as described here - [react-function-components](https://github.com/garrardkitchen/katas/blob/master/react-function-components.md)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
